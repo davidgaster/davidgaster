@@ -5,9 +5,9 @@
 -->
 A little bit about me-
 
-- 🔭 I’m currently working on integrations @ Workday
-- 🌱 I’m currently learning Golang, AWS, React, Cryptocurrencies
-- 👯 I’m looking to collaborate on Ethereum, Blockchain technology
-- 💬 Ask me about anything
-- 📫 How to reach me: www.linkedin.com/in/davidgaster
-- ⚡ Fun fact: I love skiing!
+- 🔭  I’m currently working on integrations @ Workday
+- 🌱  I’m currently learning Golang, AWS, React, Cryptocurrencies
+- 👯  I’m looking to collaborate on Ethereum, Blockchain technology
+- 💬  Ask me about anything
+- 📫  How to reach me: www.linkedin.com/in/davidgaster
+- ⚡  Fun fact: I love skiing!
